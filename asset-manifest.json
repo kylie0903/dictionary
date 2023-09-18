@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kylie0903/dictionary/static/css/main.073c9b0a.css",
+    "main.js": "/kylie0903/dictionary/static/js/main.38982851.js",
+    "index.html": "/kylie0903/dictionary/index.html",
+    "main.073c9b0a.css.map": "/kylie0903/dictionary/static/css/main.073c9b0a.css.map",
+    "main.38982851.js.map": "/kylie0903/dictionary/static/js/main.38982851.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.38982851.js"
+  ]
+}
